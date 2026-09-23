@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+
+# Local environment
+.env
+.env.*
+
+# Obsidian local workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
